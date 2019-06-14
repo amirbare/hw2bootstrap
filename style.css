@@ -77,3 +77,24 @@ p{
     border: 0 none;
   }
 
+  .portspace
+  {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  .card1
+  {
+      margin: 20px;
+
+    width: 300px;
+  }
+
+  .porttext
+  {
+
+    margin: 20px;
+  }
+
